@@ -1,2 +1,2 @@
 # xuanliu.github.io
-Xuan's Github Blog
+Xuan's Github
